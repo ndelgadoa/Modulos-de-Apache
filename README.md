@@ -5,6 +5,10 @@
 - Nos da información de la configuración del servidor web apache, nos informa de los módulos y los archivos de configuración.
 
 2. Oculta la versión del sistema y sistema de apache.
+![image](https://user-images.githubusercontent.com/113515284/199819549-95b9e862-a73c-47a6-b580-a0da822da4e2.png)
+
+![image](https://user-images.githubusercontent.com/113515284/199819448-f4b804f7-7e01-4101-92ee-bb8c89a3983d.png)
+
 
 .
 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el
