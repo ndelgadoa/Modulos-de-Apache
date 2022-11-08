@@ -12,13 +12,28 @@
 
 .
 3. Crea una carpeta en la raíz del path del servidor con el nombre public y otra con el
-nombre private. Permite que la carpeta public se visualice y el resto de las carpetas
-que se creen, incluyendo private, no se muestren. A continuación, puede observar
+nombre private.
+Permite que la carpeta public se visualice y el resto de las carpetas
+que se creen, incluyendo private, no se muestren.
+A continuación, puede observar
 como se debe de mostrar la carpeta public:
+
+![image](https://user-images.githubusercontent.com/113515284/200662340-b27de8a3-1ae1-42b8-9448-7f1a10cd1f8b.png)
+![image](https://user-images.githubusercontent.com/113515284/200662657-3a5f34f6-0829-4f6a-ae95-09bce47d56b3.png)
+
+- Permite que la carpeta public se visualice y el resto de las carpetas
+que se creen, incluyendo private, no se muestren.
+//carpeta public y private
+![image](https://user-images.githubusercontent.com/113515284/200665239-5c9dd931-09eb-45d8-9938-8a52f887eb64.png)
+
+![image](https://user-images.githubusercontent.com/113515284/200663792-eca661d5-3c47-467a-ba46-f0bc6ca99c75.png)
+
 .
 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso
 negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar
 el archivo .htacess para implementarlo.
+![image](https://user-images.githubusercontent.com/113515284/200665025-deb4fb31-5c67-4ae0-b061-19d87d08322d.png)
+
 .
 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar
 https://github.com/ramlmn/Apache-Directory-Listing u otra alternativa que te llame la
