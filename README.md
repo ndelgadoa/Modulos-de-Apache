@@ -26,7 +26,6 @@ que se creen, incluyendo private, no se muestren.
 //carpeta public y private
 ![image](https://user-images.githubusercontent.com/113515284/200665239-5c9dd931-09eb-45d8-9938-8a52f887eb64.png)
 
-![image](https://user-images.githubusercontent.com/113515284/200663792-eca661d5-3c47-467a-ba46-f0bc6ca99c75.png)
 
 .
 4. Prueba de acceder poniendo www. delante de tu URL actual. ¿Funciona? En caso
