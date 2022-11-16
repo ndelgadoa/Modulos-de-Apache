@@ -21,6 +21,8 @@ como se debe de mostrar la carpeta public:
 ![image](https://user-images.githubusercontent.com/113515284/200662340-b27de8a3-1ae1-42b8-9448-7f1a10cd1f8b.png)
 ![image](https://user-images.githubusercontent.com/113515284/200662657-3a5f34f6-0829-4f6a-ae95-09bce47d56b3.png)
 
+
+
 - Permite que la carpeta public se visualice y el resto de las carpetas
 que se creen, incluyendo private, no se muestren.
 //carpeta public y private
@@ -32,6 +34,9 @@ que se creen, incluyendo private, no se muestren.
 negativo, haz que funcione mediante el módulo mod_rewrite. Investigue como utilizar
 el archivo .htacess para implementarlo.
 ![image](https://user-images.githubusercontent.com/113515284/200665025-deb4fb31-5c67-4ae0-b061-19d87d08322d.png)
+![image](https://user-images.githubusercontent.com/113515284/202318172-5bf8c086-ca38-463c-a680-a9bf15628701.png)
+![image](https://user-images.githubusercontent.com/113515284/202318362-6074f583-3d9c-479e-b66f-ee7c76799b25.png)
+
 
 .
 5. Muestra los directorios de Apache con un tema diferente. Puedes utilizar
